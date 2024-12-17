@@ -8,12 +8,12 @@ environment:
 
 dependencies:
   http: ^1.2.2
-  meta: ^1.16.0
+  meta: ^1.15.0
   json_annotation: ^4.9.0
 
 dev_dependencies:
   test: ^1.25.12
   pedantic: ^1.11.1
-  build_runner: ^2.4.13
+  build_runner: ^2.4.14
   json_serializable: ^6.9.0
   coverage: ^1.11.1
